@@ -18,5 +18,19 @@
         "subtitle":"tools for design user interface",
         "image_url":"https://cdn.pixabay.com/photo/2018/08/18/13/26/interface-3614766_960_720.png",
         "detail":"..................................."
+    },
+
+    {
+        "title":"python คือ??",
+        "subtitle":"tools for design user interface",
+        "image_url":"https://cdn.pixabay.com/photo/2018/08/18/13/26/interface-3614766_960_720.png",
+        "detail":"..................................."
+    },
+
+    {
+        "title":"dart คือ??",
+        "subtitle":"tools for design user interface",
+        "image_url":"https://cdn.pixabay.com/photo/2018/08/18/13/26/interface-3614766_960_720.png",
+        "detail":"..................................."
     }
 ]
